@@ -1,5 +1,5 @@
 /* The best forkbomb ever, courtesy of impost0r
-	NIGGERBOMB.C
+	NAUGHTYBOMB.C
 	supply the amount of times you want it to fork and let it kill the system
 	*/
 
